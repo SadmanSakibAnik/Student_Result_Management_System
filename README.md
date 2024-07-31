@@ -5,7 +5,7 @@ The Student Result Management System (RMS) is a comprehensive software applicati
 
 <h2> Features: </h2> 
 <li><strong>User Authentication:</strong> Secure login for administrators, teachers, and students.</li>
-<li><strong>User Authentication:</strong> Student Management: Add, update, and delete student information.</li>
-<li><strong>User Authentication:</strong> Course Management: Manage course details including course code, name, and credit hours.</li>
-<li><strong>User Authentication:</strong> Result Entry: Input student grades for various assessments and exams.</li>
-<li><strong>User Authentication:</strong> User Roles: Different access levels for teachers, and students. </li>
+<li><strong>User Student Management:</strong> Add, update, and delete student information.</li>
+<li><strong>User Course Management:</strong> Manage course details including course code, name, and credit hours.</li>
+<li><strong>User Result Entry:</strong> Input student grades for various assessments and exams.</li>
+<li><strong>User User Roles:</strong> Different access levels for teachers, and students. </li>
