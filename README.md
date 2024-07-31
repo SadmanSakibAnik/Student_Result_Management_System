@@ -1,4 +1,4 @@
-<h1>BUBT Result Management System </h1>
+<h1> align = "center"BUBT Result Management System </h1>
 
 <h2>Overview: </h2> 
 The BUBT Result Management System (RMS) is a comprehensive software application designed to manage and streamline the process of recording, calculating, and displaying student academic results. This system is intended for educational institutions to efficiently handle student grades and provide access to academic performance data.
